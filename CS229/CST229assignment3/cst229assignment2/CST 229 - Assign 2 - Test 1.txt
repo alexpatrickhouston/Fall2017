@@ -1,0 +1,15 @@
+'Even number of a's
+2
+S, a, A
+S, b, S
+A, a, S
+A, b, A
+F: S
+a
+b
+aaa
+bbb
+ababab
+babab
+aabaabaa
+abbaabaabb

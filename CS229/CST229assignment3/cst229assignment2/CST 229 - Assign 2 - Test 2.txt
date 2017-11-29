@@ -1,0 +1,22 @@
+'Last letter = first letter
+5
+S, a, A
+S, b, B
+A, a, A
+A, b, C
+B, a, D
+B, b, B
+C, a, A
+C, b, C
+D, a, D
+D, b, B
+F: S, A, B
+a
+b
+aa
+bb
+ab
+bab
+aabbaaba
+abbbabbab
+baaaaaab

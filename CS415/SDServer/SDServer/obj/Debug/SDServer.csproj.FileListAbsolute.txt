@@ -1,0 +1,9 @@
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\bin\Debug\SDServer.exe.config
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\bin\Debug\SDServer.exe
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\bin\Debug\SDServer.pdb
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\obj\Debug\SDServer.csprojResolveAssemblyReference.cache
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\obj\Debug\SDServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\obj\Debug\SDServer.exe
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\obj\Debug\SDServer.pdb
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\bin\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Houston\Desktop\CS415\SDServer\SDServer\bin\Debug\PRSMessageLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\bin\Debug\SDClient.exe.config
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\bin\Debug\SDClient.exe
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\bin\Debug\SDClient.pdb
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\bin\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\bin\Debug\PRSMessageLibrary.pdb
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\obj\Debug\SDClient.csprojResolveAssemblyReference.cache
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\obj\Debug\SDClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\obj\Debug\SDClient.exe
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDClient\obj\Debug\SDClient.pdb

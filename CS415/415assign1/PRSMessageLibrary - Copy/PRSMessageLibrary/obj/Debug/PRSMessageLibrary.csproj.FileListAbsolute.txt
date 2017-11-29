@@ -1,0 +1,12 @@
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSMessageLibrary\bin\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSMessageLibrary\bin\Debug\PRSMessageLibrary.pdb
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.pdb
+C:\Users\Alex Patrick Houston\Desktop\CS415\415assign1\PRSMessageLibrary - Copy\PRSMessageLibrary\bin\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Patrick Houston\Desktop\CS415\415assign1\PRSMessageLibrary - Copy\PRSMessageLibrary\bin\Debug\PRSMessageLibrary.pdb
+C:\Users\Alex Patrick Houston\Desktop\CS415\415assign1\PRSMessageLibrary - Copy\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alex Patrick Houston\Desktop\CS415\415assign1\PRSMessageLibrary - Copy\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex Patrick Houston\Desktop\CS415\415assign1\PRSMessageLibrary - Copy\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Patrick Houston\Desktop\CS415\415assign1\PRSMessageLibrary - Copy\PRSMessageLibrary\obj\Debug\PRSMessageLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex Patrick Houston\Desktop\PRSServer\PRSMessageLibrary\bin\Debug\netstandard1.4\PRSMessageLibrary.deps.json
+C:\Users\Alex Patrick Houston\Desktop\PRSServer\PRSMessageLibrary\bin\Debug\netstandard1.4\PRSMessageLibrary.dll
+C:\Users\Alex Patrick Houston\Desktop\PRSServer\PRSMessageLibrary\bin\Debug\netstandard1.4\PRSMessageLibrary.pdb
+C:\Users\Alex Patrick Houston\Desktop\PRSServer\PRSMessageLibrary\obj\Debug\netstandard1.4\PRSMessageLibrary.AssemblyInfo.cs
+C:\Users\Alex Patrick Houston\Desktop\PRSServer\PRSMessageLibrary\obj\Debug\netstandard1.4\PRSMessageLibrary.dll
+C:\Users\Alex Patrick Houston\Desktop\PRSServer\PRSMessageLibrary\obj\Debug\netstandard1.4\PRSMessageLibrary.pdb

@@ -1,0 +1,15 @@
+'Contains aa
+3
+S, a, A
+S, b, S
+A, a, B
+A, b, S
+B, a, B
+B, b, B
+F: B
+a
+bbaba
+bbbaabbbabab
+aabababbb
+bbba
+bbababbababba

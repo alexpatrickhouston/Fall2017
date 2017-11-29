@@ -1,0 +1,7 @@
+C:\Users\Alex Patrick Houston\Desktop\assign2\FTServer\FTClient\obj\Debug\FTClient.csprojResolveAssemblyReference.cache
+C:\Users\Alex Patrick Houston\Desktop\assign2\FTServer\FTClient\obj\Debug\FTClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex Patrick Houston\Desktop\assign2\FTServer\FTClient\bin\Debug\FTClient.exe.config
+C:\Users\Alex Patrick Houston\Desktop\assign2\FTServer\FTClient\bin\Debug\FTClient.exe
+C:\Users\Alex Patrick Houston\Desktop\assign2\FTServer\FTClient\bin\Debug\FTClient.pdb
+C:\Users\Alex Patrick Houston\Desktop\assign2\FTServer\FTClient\obj\Debug\FTClient.exe
+C:\Users\Alex Patrick Houston\Desktop\assign2\FTServer\FTClient\obj\Debug\FTClient.pdb

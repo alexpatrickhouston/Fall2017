@@ -1,0 +1,17 @@
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.Form1.resources
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.Properties.Resources.resources
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.csproj.GenerateResource.Cache
+C:\Users\Alex Patrick Houston\Desktop\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\bin\Debug\SDBrowser.exe.config
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\bin\Debug\SDBrowser.exe
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\bin\Debug\SDBrowser.pdb
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\bin\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\bin\Debug\PRSMessageLibrary.pdb
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.Form1.resources
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.Properties.Resources.resources
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.csproj.GenerateResource.Cache
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.exe
+C:\Users\Alex Patrick Houston\Desktop\New folder (2)\CS415\SDServer\SDBrowser\obj\Debug\SDBrowser.pdb

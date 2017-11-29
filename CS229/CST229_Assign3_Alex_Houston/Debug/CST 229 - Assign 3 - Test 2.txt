@@ -1,0 +1,15 @@
+'(a^n)(b^n)
+5
+S, read, a, A
+A, push, a, S
+S, read, b, B
+B, pop, a, C
+C, read, b, B
+C, read, z, D
+D, pop, z, F
+ab
+aaabb
+ababab
+aaa
+bbbaaa
+aaaabbbb

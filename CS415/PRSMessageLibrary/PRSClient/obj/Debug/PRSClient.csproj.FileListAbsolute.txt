@@ -1,0 +1,9 @@
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\bin\Debug\PRSClient.exe.config
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\bin\Debug\PRSClient.exe
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\bin\Debug\PRSClient.pdb
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\bin\Debug\PRSMessageLibrary.dll
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\bin\Debug\PRSMessageLibrary.pdb
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\obj\Debug\PRSClient.csprojResolveAssemblyReference.cache
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\obj\Debug\PRSClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\obj\Debug\PRSClient.exe
+C:\Users\Alex Houston\source\repos\PRSMessageLibrary\PRSClient\obj\Debug\PRSClient.pdb

@@ -1,0 +1,13 @@
+'Ends in a 
+2
+S, read, a, A
+S, read, b, S
+A, read, a, A
+A, read, b, S
+A, read, z, F
+aba
+bbaabba
+bbabab
+aaaab
+b
+a

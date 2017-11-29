@@ -1,0 +1,13 @@
+'Odd length
+2
+S, a, A
+S, b, A
+A, a, S
+A, b, S
+F: A
+a
+b
+bb
+baab
+aaaaaaabbaaa
+bababaaaabbbb
